@@ -1,6 +1,6 @@
 # Hi, I'm Eitan 👋
 
-I'm a 16-year-old developer with a passion for programming, robotics, game development and cyber. I started programming at the age of 12 in grade 8, and I've been hooked ever since!
+I'm a 17-year-old developer with a passion for programming, robotics, game development and cyber. I started programming at the age of 12 in grade 8, and I've been hooked ever since!
 
 ## 🛠️ Skills & Expertise
 - **Python**: My go-to language for solving problems, automating tasks, and creating projects.
@@ -12,9 +12,9 @@ there I get to combine my love for coding with real-world engineering challenges
   
 - **Minecraft**: I also have some experience in developing mods, plugins, datapacks and more in Minecraft! my favorite game.
   
-- **Cyber**: In addition, I'm currently learining and improving my cyber security skills by PicoCTF and my own C++ from scratch tcp project, RemoteLink.
+- **Cyber**: In addition, I'm currently learning and improving my cyber security skills with CTF websites and my own C++ from scratch tcp project, RemoteLink.
 
-There are of course many more programming languages and frameworks I know how to work with like ReactJS but I'm not as good at them.
+There are many more programming languages and frameworks I know how to work with like ReactJS but I'm not as good at them.
 
 ## 🐰 Meet Mochi
 When I'm not coding, you can find me hanging out with my bunny, Mochi. 🐇
