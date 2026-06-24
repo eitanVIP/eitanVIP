@@ -5,7 +5,7 @@ I'm a 17-year-old developer with a passion for programming, robotics, game devel
 ## Skills
 - **FRC Robotics With Java**: I'm the Programming lead in my team Ninjas #4744 Hadera/Israel. There I get to combine my love for coding with real-world engineering challenges like vision processing for estimating robot's position, complex state machines for controlling systems, and motor tuning. You can have a look at my repos like Robot-Code-2026 and NinjasLib.
   - Robot-Code-2026 - The official code for my team's 2026 robot. 
-  - NinjasLib - A library I've created to ease robot code developement.
+  - NinjasLib - A library I've created to ease robot code development.
   
 - **Cyber**: I have solved many CTFs/PWNables in websites like pwnable.kr, picoctf.org, overthewire.org. You can have a look at my repos like Eitan-OS and RemoteLink.
   - Eitan-OS - My own kernel from skretch in C and Assembly.
