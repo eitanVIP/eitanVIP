@@ -12,8 +12,8 @@ I'm a 17-year-old developer with a passion for programming, robotics, game devel
   - RemoteLink - A TCP implementation from skretch in C++.
 
 - **App/Web Development**: Experienced in app and web development. Leading projects include "NutriScan" (a high school capstone app), as well as contributing to the development of both the scouting application and the official website for my robotics team.
-  - NutriScan - A home food manager app to help eating healthy.
-  - Robotics Team Scouting App - Assisted in the development of the scouting app, which was used in real competetions.
+  - NutriScan - A home food manager app to help eating healthy. Created with Android Studio, Java and Firebase.
+  - Robotics Team Scouting App - Assisted in the development of the scouting app, which was used in real competetions. Prototype created with Flutter, Dart and Firebase. Final product create with React native and firebase.
   - Robotics Team Website - Assisted in the development of the website in React.js.
 
 - **Python**: My go-to language for solving problems, automating tasks, and creating projects.
